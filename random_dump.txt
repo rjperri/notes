@@ -1,0 +1,25 @@
+https://localhost:8443/memberships-rest/uPayPostback?pmt_status=success&sys_tracking_id=90&tpg_trans_id=900348&pmt_amt=5&name_on_acct=BobPerri&EXT_TRANS_ID=19508&UPAY_SITE_ID=6&pmt_date=09%2F20%2F2017
+
+So i was playing around with google app scripts. Figure you can take a look and see what I did.
+
+So, here's what I did:
+I wrote three functions. The first one is called 'addTwoNumbers' which just adds two numbers passed in. Use it like so:
+"=addTwoNumbers(2,3)"
+The result should be "5"
+
+The next function is called 'bigBob' and it just returns the statement "BigBob in da hizzy"
+use it like so
+"=bigBob()"
+
+The last function I wrote is called 'fib'
+fib will calculate the fibbanacci value for a number.
+Fibbanacci is a mathematical sequence that starts off like this
+0, 1, 1, 2, 3, 5, 8, ...
+basically to find the next number in sequence, you add the two numbers before. It's a beautifully mathematical function. And one of like the first functions you implement when learning a new language.
+Here's how to call it: "=fib(10)"
+and the result should be "55"
+
+To see the actual code I wrote, click on "Tools" and then "Code
+
+cr887hs4A25lrtGS0fffWA==
+Qno3+Bk9misKcVY83bcig==
